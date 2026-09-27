@@ -63,7 +63,7 @@ opm install opentelemetry-propagator-b3
 
 ## Требования совместимости
 
-- OneScript `>= 1.0.0`
+- OneScript `>= 2.2.0`
 - OpenTelemetry SDK для OneScript `>= 1.0.0`
 
 ## API
